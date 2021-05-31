@@ -1,0 +1,17 @@
+.list {
+  text-align: center;
+  padding-bottom: 1%;
+  :pointer ;
+}
+.form {
+  text-align: center;
+  margin-top: 5%;
+}
+.add {
+  background-color: blue;
+  color: white;
+}
+.clear {
+  background-color: red;
+  color: white;
+}
